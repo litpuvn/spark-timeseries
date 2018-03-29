@@ -13,7 +13,8 @@ import org.apache.spark.api.java.JavaPairRDD;
 import org.apache.spark.api.java.JavaRDD;
 import org.apache.spark.api.java.JavaSparkContext;
 import org.apache.spark.mllib.linalg.Vector;
-import org.apache.spark.sql.DataFrame;
+//import org.apache.spark.sql.DataFrame;
+import org.apache.spark.sql.Dataset;
 import org.apache.spark.sql.Row;
 import org.apache.spark.sql.RowFactory;
 import org.apache.spark.sql.SQLContext;
@@ -32,8 +33,8 @@ import java.util.List;
 
 
 public class JavaStocks {
-    private static DataFrame loadObservations(JavaSparkContext sparkContext, SQLContext sqlContext,
-                                              String path) {
+    private static Dataset<Row> loadObservations(JavaSparkContext sparkContext, SQLContext sqlContext,
+                                                 String path) {
         JavaRDD<Row> rowRdd = sparkContext.textFile(path).map((String line) -> {
             String[] tokens = line.split("\t");
             ZonedDateTime dt = ZonedDateTime.of(
@@ -58,7 +59,7 @@ public class JavaStocks {
         JavaSparkContext context = new JavaSparkContext(conf);
         SQLContext sqlContext = new SQLContext(context);
 
-        DataFrame tickerObs = loadObservations(context, sqlContext, "data/ticker.tsv");
+        Dataset tickerObs = loadObservations(context, sqlContext, "data/ticker.tsv");
 
         System.out.println("tickerObs - loadObservations");
         tickerObs.show();
