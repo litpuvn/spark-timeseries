@@ -35,11 +35,12 @@ import org.apache.spark.sql.types.StructType;
 
 import scala.Option;
 import scala.reflect.ClassTag;
-import shapeless.newtype;
+//import shapeless.newtype;
 import breeze.linalg.DenseMatrix;
 import breeze.linalg.DenseVector;
 //import org.apache.spark.sql.Row;
 //import org.apache.spark.mllib.linalg.DenseVector;
+import org.apache.spark.sql.SparkSession;
 
 public class SalePrediction {
 
@@ -103,6 +104,7 @@ public class SalePrediction {
         double[] val = {1.0,1.0,1.0,1.0};
         org.apache.spark.mllib.linalg.DenseVector time = new org.apache.spark.mllib.linalg.DenseVector(val);
         Option<double[]> userInitParams = org.apache.spark.mllib.linalg.DenseVector.unapply(time);
+
 
         //			p, d, q
         ARIMAXModel model = ARIMAX.fitModel(1, 1, 0, tsvector, xreg, 1, false, false, userInitParams);
