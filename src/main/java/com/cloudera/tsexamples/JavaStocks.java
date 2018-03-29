@@ -45,7 +45,7 @@ public class JavaStocks {
             double price = Double.parseDouble(tokens[5]);
             return RowFactory.create(Timestamp.from(dt.toInstant()), symbol, price);
         });
-        List<StructField> fields = new ArrayList();
+        List<StructField> fields = new ArrayList<>();
         fields.add(DataTypes.createStructField("timestamp", DataTypes.TimestampType, true));
         fields.add(DataTypes.createStructField("symbol", DataTypes.StringType, true));
         fields.add(DataTypes.createStructField("price", DataTypes.DoubleType, true));
