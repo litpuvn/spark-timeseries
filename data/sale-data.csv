@@ -1,0 +1,1105 @@
+Date, ProductCategory, State, GrossSales
+4/1/2012 0:00,vbg,Flor,12037.49
+4/2/2012 0:00,zdv,Ohio,76274.01
+4/3/2012 0:00,Confectionary,Flor,84600.22
+4/4/2012 0:00,Cool Drinks,Ohio,5312.68
+4/5/2012 0:00,Fruit Juices,Flor,117174.99
+4/6/2012 0:00,Health Drinks,Flor,6847.29
+4/7/2012 0:00,Ice Cream,Ohio,5181.22
+4/8/2012 0:00,Snacks,Flor,4298.31
+4/9/2012 0:00,Tea,Ohio,67586.44
+4/10/2012 0:00,vbg,Arkansas,61627.47
+4/11/2012 0:00,vbg,Flor,188197.4
+4/12/2012 0:00,zdv,Arkansas,10150.29
+4/13/2012 0:00,zdv,Flor,14768.17
+4/14/2012 0:00,zdv,Ohio,18409.05
+4/15/2012 0:00,Confectionary,Arkansas,996.6
+4/16/2012 0:00,Confectionary,Flor,11178.34
+4/17/2012 0:00,Fruit Juices,Arkansas,80151.33
+4/18/2012 0:00,Fruit Juices,Flor,22919.54
+4/19/2012 0:00,Health Drinks,Flor,34883.18
+4/20/2012 0:00,Health Drinks,Ohio,17541.7
+4/21/2012 0:00,Ice Cream,Arkansas,23985.01
+4/22/2012 0:00,Ice Cream,Flor,25376.13
+4/23/2012 0:00,Ice Cream,Ohio,2055.55
+4/24/2012 0:00,Snacks,Arkansas,19256.29
+4/25/2012 0:00,Snacks,Flor,11202.26
+4/26/2012 0:00,Tea,Arkansas,3700.33
+4/27/2012 0:00,Tea,Ohio,3241.34
+4/28/2012 0:00,vbg,Arkansas,29222.25
+4/29/2012 0:00,vbg,Flor,29653.3
+4/30/2012 0:00,vbg,Washington,17892.25
+5/1/2012 0:00,zdv,Arkansas,22178.7
+5/2/2012 0:00,zdv,Flor,8002.67
+5/3/2012 0:00,zdv,Ohio,8939.05
+5/4/2012 0:00,zdv,Washington,22403.53
+5/5/2012 0:00,Confectionary,Flor,33052.61
+5/6/2012 0:00,Cool Drinks,Arkansas,17632.98
+5/7/2012 0:00,Cool Drinks,Ohio,1906.27
+5/8/2012 0:00,Fruit Juices,Arkansas,22329.37
+5/9/2012 0:00,Fruit Juices,Flor,113393.28
+5/10/2012 0:00,Fruit Juices,Washington,46186.82
+5/11/2012 0:00,Health Drinks,Arkansas,56088.86
+5/12/2012 0:00,Health Drinks,Flor,44576.84
+5/13/2012 0:00,Health Drinks,Washington,24197.98
+5/14/2012 0:00,Ice Cream,Arkansas,48882.16
+5/15/2012 0:00,Ice Cream,Flor,19425.94
+5/16/2012 0:00,Ice Cream,Washington,97790.77
+5/17/2012 0:00,Snacks,Arkansas,18374.34
+5/18/2012 0:00,Snacks,Flor,162757.21
+5/19/2012 0:00,Snacks,Washington,27377.6
+5/20/2012 0:00,Tea,Flor,258934.86
+5/21/2012 0:00,Tea,Ohio,39355.06
+5/22/2012 0:00,Tea,Washington,42414.85
+5/23/2012 0:00,vbg,ariz,207084.44
+5/24/2012 0:00,vbg,Arkansas,34377.12
+5/25/2012 0:00,vbg,Washington,35304.63
+5/26/2012 0:00,zdv,ariz,183264.34
+5/27/2012 0:00,zdv,Arkansas,1897.58
+5/28/2012 0:00,zdv,Washington,298188.64
+5/29/2012 0:00,Confectionary,ariz,10386.88
+5/30/2012 0:00,Confectionary,Arkansas,35584.68
+5/31/2012 0:00,Confectionary,Washington,2490.39
+6/1/2012 0:00,Cool Drinks,Washington,41882.11
+6/2/2012 0:00,Fruit Juices,ariz,100983.23
+6/3/2012 0:00,Fruit Juices,Flor,19531.77
+6/4/2012 0:00,Fruit Juices,Washington,50513.95
+6/5/2012 0:00,Health Drinks,ariz,106926.9
+6/6/2012 0:00,Health Drinks,Flor,45624.49
+6/7/2012 0:00,Health Drinks,Washington,225891.22
+6/8/2012 0:00,Ice Cream,ariz,30138.72
+6/9/2012 0:00,Ice Cream,Arkansas,74955.31
+6/10/2012 0:00,Ice Cream,Flor,2111.13
+6/11/2012 0:00,Ice Cream,Washington,27979.73
+6/12/2012 0:00,Snacks,ariz,40396.05
+6/13/2012 0:00,Snacks,Arkansas,21824.5
+6/14/2012 0:00,Tea,ariz,48698.54
+6/15/2012 0:00,Tea,Arkansas,10078.1
+6/16/2012 0:00,Tea,Washington,11124.12
+6/17/2012 0:00,vbg,Arkansas,335851.74
+6/18/2012 0:00,vbg,Flor,27522.72
+6/19/2012 0:00,vbg,Ohio,6552.38
+6/20/2012 0:00,vbg,Washington,23217.48
+6/21/2012 0:00,zdv,ariz,78694.3
+6/22/2012 0:00,zdv,Arkansas,19205.86
+6/23/2012 0:00,zdv,Flor,23673
+6/24/2012 0:00,zdv,Ohio,11824.87
+6/25/2012 0:00,zdv,Washington,8410.64
+6/26/2012 0:00,Confectionary,ariz,54004.61
+6/27/2012 0:00,Confectionary,Arkansas,75880.53
+6/28/2012 0:00,Cool Drinks,Arkansas,40931.14
+6/29/2012 0:00,Fruit Juices,ariz,10322.66
+6/30/2012 0:00,Fruit Juices,Arkansas,151421.02
+7/1/2012 0:00,Fruit Juices,Flor,44588.59
+7/2/2012 0:00,Health Drinks,Arkansas,18390.45
+7/3/2012 0:00,Health Drinks,Flor,19808.47
+7/4/2012 0:00,Health Drinks,Ohio,1715.18
+7/5/2012 0:00,Ice Cream,ariz,9247.2
+7/6/2012 0:00,Ice Cream,Arkansas,29095.56
+7/7/2012 0:00,Ice Cream,Ohio,147692.35
+7/8/2012 0:00,Snacks,Arkansas,7836.32
+7/9/2012 0:00,Snacks,Flor,4094.19
+7/10/2012 0:00,Tea,Arkansas,57959.68
+7/11/2012 0:00,vbg,ariz,10795.83
+7/12/2012 0:00,vbg,Arkansas,60310.45
+7/13/2012 0:00,zdv,ariz,6519.96
+7/14/2012 0:00,zdv,Arkansas,25690.33
+7/15/2012 0:00,zdv,Washington,12162.38
+7/16/2012 0:00,Confectionary,ariz,5193.14
+7/17/2012 0:00,Confectionary,Arkansas,111971.02
+7/18/2012 0:00,Cool Drinks,Arkansas,68421.92
+7/19/2012 0:00,Fruit Juices,ariz,3404.4
+7/20/2012 0:00,Fruit Juices,Arkansas,153053.01
+7/21/2012 0:00,Health Drinks,Arkansas,164582.19
+7/22/2012 0:00,Ice Cream,ariz,56633.74
+7/23/2012 0:00,Ice Cream,Arkansas,23115.63
+7/24/2012 0:00,Snacks,Arkansas,194039.93
+7/25/2012 0:00,Tea,ariz,167478.13
+7/26/2012 0:00,Tea,Arkansas,49484.46
+7/27/2012 0:00,Tea,Washington,43423.91
+7/28/2012 0:00,vbg,Flor,116156.23
+7/29/2012 0:00,zdv,Flor,57432.28
+7/30/2012 0:00,Confectionary,Flor,20101.89
+7/31/2012 0:00,Cool Drinks,Flor,53362.72
+8/1/2012 0:00,Fruit Juices,Flor,75106.67
+8/2/2012 0:00,Health Drinks,Flor,248230.26
+8/3/2012 0:00,Ice Cream,Flor,13444.73
+8/4/2012 0:00,Snacks,Flor,36822.2
+8/5/2012 0:00,Tea,Flor,15110.1
+8/6/2012 0:00,Fruit Juices,ariz,89859.62
+8/7/2012 0:00,vbg,Flor,64679.41
+8/8/2012 0:00,zdv,Flor,27783.76
+8/9/2012 0:00,Confectionary,Flor,10524.6
+8/10/2012 0:00,Cool Drinks,Flor,113262.08
+8/11/2012 0:00,Fruit Juices,Arkansas,78123.7
+8/12/2012 0:00,Fruit Juices,Flor,69060.24
+8/13/2012 0:00,Health Drinks,Flor,25180.28
+8/14/2012 0:00,Ice Cream,Flor,48243.57
+8/15/2012 0:00,Snacks,Flor,714089.98
+8/16/2012 0:00,Tea,Flor,33331.52
+8/17/2012 0:00,vbg,Arkansas,42980.96
+8/18/2012 0:00,vbg,Flor,69509.43
+8/19/2012 0:00,vbg,Washington,17127.65
+8/20/2012 0:00,zdv,Arkansas,5849.93
+8/21/2012 0:00,zdv,Flor,4399.18
+8/22/2012 0:00,Confectionary,Arkansas,60697.3
+8/23/2012 0:00,Cool Drinks,Flor,274026.43
+8/24/2012 0:00,Fruit Juices,Arkansas,42377.63
+8/25/2012 0:00,Fruit Juices,Flor,32903.12
+8/26/2012 0:00,Health Drinks,Arkansas,5689.93
+8/27/2012 0:00,Health Drinks,Flor,3056.14
+8/28/2012 0:00,Health Drinks,Washington,17313.93
+8/29/2012 0:00,Ice Cream,Flor,28822.47
+8/30/2012 0:00,Ice Cream,Washington,69821.27
+8/31/2012 0:00,Snacks,Flor,158192.41
+9/1/2012 0:00,Tea,Flor,27688.43
+9/2/2012 0:00,vbg,Flor,215664.12
+9/3/2012 0:00,vbg,Washington,10043.17
+9/4/2012 0:00,zdv,ariz,126847.17
+9/5/2012 0:00,zdv,Flor,3777.18
+9/6/2012 0:00,zdv,Washington,4289.68
+9/7/2012 0:00,Confectionary,Flor,30325.98
+9/8/2012 0:00,Confectionary,Washington,12463.53
+9/9/2012 0:00,Cool Drinks,Flor,15236.02
+9/10/2012 0:00,Cool Drinks,Washington,16165.85
+9/11/2012 0:00,Fruit Juices,Flor,77750.5
+9/12/2012 0:00,Fruit Juices,Washington,32570.24
+9/13/2012 0:00,Health Drinks,Flor,33259.72
+9/14/2012 0:00,Ice Cream,ariz,132861.68
+9/15/2012 0:00,Ice Cream,Flor,19253.34
+9/16/2012 0:00,Ice Cream,Washington,67190.54
+9/17/2012 0:00,Snacks,Flor,5273.4
+9/18/2012 0:00,Snacks,Washington,30049.56
+9/19/2012 0:00,Tea,ariz,99345.74
+9/20/2012 0:00,Tea,Flor,22802.34
+9/21/2012 0:00,Tea,Washington,22257.69
+9/22/2012 0:00,vbg,Flor,32691.12
+9/23/2012 0:00,vbg,Washington,7190.97
+9/24/2012 0:00,Cool Drinks,Flor,9390.15
+9/25/2012 0:00,Fruit Juices,Flor,6352.05
+9/26/2012 0:00,Fruit Juices,Washington,59680.86
+9/27/2012 0:00,Health Drinks,Washington,441.6
+9/28/2012 0:00,Ice Cream,Flor,15945.43
+9/29/2012 0:00,Tea,Flor,20648.94
+9/30/2012 0:00,vbg,Arkansas,19498.49
+10/1/2012 0:00,vbg,Flor,5365.6
+10/2/2012 0:00,vbg,Washington,115463.15
+10/3/2012 0:00,zdv,ariz,74851.02
+10/4/2012 0:00,zdv,Arkansas,47583.14
+10/5/2012 0:00,zdv,Flor,11651.2
+10/6/2012 0:00,zdv,Washington,13183.46
+10/7/2012 0:00,Confectionary,Washington,116526.69
+10/8/2012 0:00,Cool Drinks,ariz,14384.63
+10/9/2012 0:00,Cool Drinks,Arkansas,35491.22
+10/10/2012 0:00,Cool Drinks,Flor,29509.17
+10/11/2012 0:00,Fruit Juices,Arkansas,228529.38
+10/12/2012 0:00,Fruit Juices,Flor,15682.41
+10/13/2012 0:00,Fruit Juices,Washington,207857.66
+10/14/2012 0:00,Health Drinks,Arkansas,4850.37
+10/15/2012 0:00,Health Drinks,Flor,6019
+10/16/2012 0:00,Health Drinks,Washington,46961.98
+10/17/2012 0:00,Ice Cream,ariz,58773.76
+10/18/2012 0:00,Ice Cream,Arkansas,15183.12
+10/19/2012 0:00,Ice Cream,Washington,12029.82
+10/20/2012 0:00,Snacks,Flor,48085.1
+10/21/2012 0:00,Snacks,Washington,47258.32
+10/22/2012 0:00,Tea,ariz,30242.52
+10/23/2012 0:00,Tea,Arkansas,28257.47
+10/24/2012 0:00,Tea,Flor,5752.76
+10/25/2012 0:00,Tea,Washington,32446.77
+10/26/2012 0:00,vbg,Arkansas,195532.39
+10/27/2012 0:00,vbg,Flor,6444.36
+10/28/2012 0:00,vbg,Washington,54389.66
+10/29/2012 0:00,zdv,ariz,95769.68
+10/30/2012 0:00,zdv,Arkansas,334443
+10/31/2012 0:00,zdv,Flor,5566.44
+11/1/2012 0:00,zdv,Washington,13837.15
+11/2/2012 0:00,Confectionary,Arkansas,27706.46
+11/3/2012 0:00,Confectionary,Flor,19869.48
+11/4/2012 0:00,Confectionary,Washington,1464.16
+11/5/2012 0:00,Cool Drinks,Arkansas,11683.96
+11/6/2012 0:00,Cool Drinks,Flor,9542.88
+11/7/2012 0:00,Cool Drinks,Washington,120054.91
+11/8/2012 0:00,Fruit Juices,Arkansas,144562.88
+11/9/2012 0:00,Fruit Juices,Flor,23666.38
+11/10/2012 0:00,Fruit Juices,Washington,153238.5
+11/11/2012 0:00,Health Drinks,ariz,14523.6
+11/12/2012 0:00,Health Drinks,Arkansas,25033.19
+11/13/2012 0:00,Health Drinks,Flor,43945.26
+11/14/2012 0:00,Ice Cream,ariz,9715.77
+11/15/2012 0:00,Ice Cream,Arkansas,46129.11
+11/16/2012 0:00,Ice Cream,Flor,168789.78
+11/17/2012 0:00,Ice Cream,Washington,269935.84
+11/18/2012 0:00,Snacks,Arkansas,23994.12
+11/19/2012 0:00,Snacks,Flor,2239.74
+11/20/2012 0:00,Snacks,Washington,5936.25
+11/21/2012 0:00,Tea,ariz,12435.06
+11/22/2012 0:00,Tea,Arkansas,55895.62
+11/23/2012 0:00,Tea,Flor,3791.55
+11/24/2012 0:00,Tea,Washington,15807.96
+11/25/2012 0:00,vbg,Arkansas,118408.26
+11/26/2012 0:00,vbg,Flor,111334.54
+11/27/2012 0:00,vbg,Ohio,82332.44
+11/28/2012 0:00,vbg,Washington,197666.58
+11/29/2012 0:00,zdv,Arkansas,17276.97
+11/30/2012 0:00,zdv,Flor,172012.92
+12/1/2012 0:00,zdv,Ohio,7754.18
+12/2/2012 0:00,zdv,Washington,21036.03
+12/3/2012 0:00,Confectionary,Flor,8506.58
+12/4/2012 0:00,Confectionary,Washington,9676.32
+12/5/2012 0:00,Cool Drinks,Washington,69656.28
+12/6/2012 0:00,Fruit Juices,ariz,55595.52
+12/7/2012 0:00,Fruit Juices,Arkansas,88032.93
+12/8/2012 0:00,Fruit Juices,Flor,238949.01
+12/9/2012 0:00,Fruit Juices,Washington,17013.1
+12/10/2012 0:00,Health Drinks,Arkansas,94689.4
+12/11/2012 0:00,Health Drinks,Flor,155555.55
+12/12/2012 0:00,Health Drinks,Washington,57610.59
+12/13/2012 0:00,Ice Cream,ariz,116871.66
+12/14/2012 0:00,Ice Cream,Arkansas,3824.26
+12/15/2012 0:00,Ice Cream,Flor,60111.74
+12/16/2012 0:00,Ice Cream,Washington,142337.89
+12/17/2012 0:00,Snacks,Arkansas,14592.46
+12/18/2012 0:00,Snacks,Flor,39101.26
+12/19/2012 0:00,Snacks,Washington,7805.36
+12/20/2012 0:00,Tea,Arkansas,1765.35
+12/21/2012 0:00,Tea,Flor,172268.03
+12/22/2012 0:00,Tea,Washington,27857.44
+12/23/2012 0:00,vbg,ariz,23306.97
+12/24/2012 0:00,vbg,Arkansas,79079.14
+12/25/2012 0:00,vbg,Flor,72845.64
+12/26/2012 0:00,vbg,Washington,11924.64
+12/27/2012 0:00,zdv,ariz,22574.04
+12/28/2012 0:00,zdv,Arkansas,187139.94
+12/29/2012 0:00,zdv,Flor,118784.29
+12/30/2012 0:00,zdv,Ohio,16916
+12/31/2012 0:00,Confectionary,Arkansas,33948.69
+1/1/2013 0:00,Confectionary,Flor,31817.63
+1/2/2013 0:00,Confectionary,Ohio,7577.64
+1/3/2013 0:00,Cool Drinks,Arkansas,35886.1
+1/4/2013 0:00,Fruit Juices,ariz,86627.2
+1/5/2013 0:00,Fruit Juices,Arkansas,109911.53
+1/6/2013 0:00,Fruit Juices,Flor,169899.97
+1/7/2013 0:00,Fruit Juices,Ohio,786.67
+1/8/2013 0:00,Health Drinks,ariz,29295.72
+1/9/2013 0:00,Health Drinks,Arkansas,69991.6
+1/10/2013 0:00,Health Drinks,Flor,31054.1
+1/11/2013 0:00,Health Drinks,Ohio,4873.18
+1/12/2013 0:00,Ice Cream,ariz,10655.45
+1/13/2013 0:00,Ice Cream,Arkansas,99874.63
+1/14/2013 0:00,Ice Cream,Flor,20662.41
+1/15/2013 0:00,Ice Cream,Ohio,15772.33
+1/16/2013 0:00,Snacks,Arkansas,78819.3
+1/17/2013 0:00,Snacks,Ohio,47568.31
+1/18/2013 0:00,Tea,ariz,7942.78
+1/19/2013 0:00,Tea,Arkansas,73466.76
+1/20/2013 0:00,Fruit Juices,Arkansas,1402.7
+1/21/2013 0:00,Health Drinks,Washington,40862.22
+1/22/2013 0:00,vbg,Arkansas,20831.64
+1/23/2013 0:00,vbg,Washington,137278.51
+1/24/2013 0:00,zdv,Flor,8625.61
+1/25/2013 0:00,zdv,Washington,23925.78
+1/26/2013 0:00,Confectionary,Washington,34348.69
+1/27/2013 0:00,Cool Drinks,Washington,10650.39
+1/28/2013 0:00,Fruit Juices,Washington,19312.96
+1/29/2013 0:00,Health Drinks,Arkansas,120207.45
+1/30/2013 0:00,Health Drinks,Washington,32587.2
+1/31/2013 0:00,Ice Cream,Arkansas,126898.38
+2/1/2013 0:00,Ice Cream,Washington,21369.09
+2/2/2013 0:00,Snacks,Washington,416714.98
+2/3/2013 0:00,Tea,Arkansas,3085.09
+2/4/2013 0:00,Tea,Washington,28791.84
+2/5/2013 0:00,vbg,Flor,74244.75
+2/6/2013 0:00,vbg,Washington,65856.83
+2/7/2013 0:00,zdv,Arkansas,12545.09
+2/8/2013 0:00,zdv,Flor,32210.11
+2/9/2013 0:00,zdv,Washington,236437.62
+2/10/2013 0:00,Confectionary,Flor,26267.6
+2/11/2013 0:00,Confectionary,Washington,2523.84
+2/12/2013 0:00,Cool Drinks,Flor,54500.62
+2/13/2013 0:00,Fruit Juices,Flor,37515.87
+2/14/2013 0:00,Fruit Juices,Washington,3669.42
+2/15/2013 0:00,Health Drinks,Arkansas,14735.93
+2/16/2013 0:00,Health Drinks,Flor,10765.87
+2/17/2013 0:00,Ice Cream,Arkansas,45328.55
+2/18/2013 0:00,Ice Cream,Flor,21018.8
+2/19/2013 0:00,Ice Cream,Washington,18963.89
+2/20/2013 0:00,Snacks,ariz,26346.87
+2/21/2013 0:00,Snacks,Flor,197080.5
+2/22/2013 0:00,Snacks,Washington,142786.37
+2/23/2013 0:00,Tea,Flor,148568.94
+2/24/2013 0:00,Tea,Washington,40618.66
+2/25/2013 0:00,vbg,Flor,44309.79
+2/26/2013 0:00,vbg,Washington,48850.28
+2/27/2013 0:00,zdv,Flor,17367.41
+2/28/2013 0:00,zdv,Washington,166039.4
+3/1/2013 0:00,Confectionary,Flor,35212.42
+3/2/2013 0:00,Confectionary,Washington,93754.9
+3/3/2013 0:00,Cool Drinks,Flor,27097.84
+3/4/2013 0:00,Cool Drinks,Washington,21122.56
+3/5/2013 0:00,Fruit Juices,Flor,24066.14
+3/6/2013 0:00,Fruit Juices,Washington,461240.26
+3/7/2013 0:00,Health Drinks,Washington,288143.11
+3/8/2013 0:00,Ice Cream,Flor,40646.63
+3/9/2013 0:00,Ice Cream,Washington,17337.24
+3/10/2013 0:00,Snacks,Flor,1596
+3/11/2013 0:00,Snacks,Washington,146590.95
+3/12/2013 0:00,Tea,Washington,32020.18
+3/13/2013 0:00,vbg,Washington,10001.52
+3/14/2013 0:00,zdv,Flor,1429.6
+3/15/2013 0:00,Confectionary,Washington,113572.5
+3/16/2013 0:00,Fruit Juices,Washington,82107
+3/17/2013 0:00,Health Drinks,Washington,171164.28
+3/18/2013 0:00,Snacks,Washington,196591.34
+3/19/2013 0:00,vbg,Flor,52870.71
+3/20/2013 0:00,vbg,Washington,95470.42
+3/21/2013 0:00,zdv,Flor,70079.32
+3/22/2013 0:00,zdv,Washington,135648.2
+3/23/2013 0:00,Confectionary,Flor,22887.46
+3/24/2013 0:00,Confectionary,Washington,15924.48
+3/25/2013 0:00,Cool Drinks,Flor,125318.72
+3/26/2013 0:00,Cool Drinks,Washington,20125.28
+3/27/2013 0:00,Fruit Juices,Flor,51389.46
+3/28/2013 0:00,Fruit Juices,Washington,165444.97
+3/29/2013 0:00,Health Drinks,Flor,43044.19
+3/30/2013 0:00,Health Drinks,Washington,106055.32
+3/31/2013 0:00,Ice Cream,Flor,156294.52
+4/1/2013 0:00,Ice Cream,Washington,118213.9
+4/2/2013 0:00,Snacks,Flor,37394.5
+4/3/2013 0:00,Snacks,Washington,69773.97
+4/4/2013 0:00,Tea,Flor,50313.14
+4/5/2013 0:00,Tea,Washington,49391.21
+4/6/2013 0:00,vbg,Arkansas,95084.44
+4/7/2013 0:00,vbg,Flor,85318.17
+4/8/2013 0:00,vbg,Washington,63398.14
+4/9/2013 0:00,zdv,Arkansas,15275.5
+4/10/2013 0:00,zdv,Flor,72527.68
+4/11/2013 0:00,zdv,Washington,21183.89
+4/12/2013 0:00,Confectionary,Arkansas,29204.72
+4/13/2013 0:00,Confectionary,Flor,39846.9
+4/14/2013 0:00,Confectionary,Washington,204865.02
+4/15/2013 0:00,Cool Drinks,Arkansas,23791.2
+4/16/2013 0:00,Cool Drinks,Flor,100017.38
+4/17/2013 0:00,Fruit Juices,Arkansas,101506.17
+4/18/2013 0:00,Fruit Juices,Flor,628271.75
+4/19/2013 0:00,Fruit Juices,Washington,67492.54
+4/20/2013 0:00,Health Drinks,Arkansas,23392.86
+4/21/2013 0:00,Health Drinks,Flor,69073.52
+4/22/2013 0:00,Health Drinks,Washington,24051.4
+4/23/2013 0:00,Ice Cream,Arkansas,29947.99
+4/24/2013 0:00,Ice Cream,Flor,301924.06
+4/25/2013 0:00,Ice Cream,Washington,25901.68
+4/26/2013 0:00,Snacks,Arkansas,107145.4
+4/27/2013 0:00,Snacks,Flor,67685.1
+4/28/2013 0:00,Snacks,Washington,39370.26
+4/29/2013 0:00,Tea,Arkansas,128305.85
+4/30/2013 0:00,Tea,Flor,74285.83
+5/1/2013 0:00,Tea,Washington,156485.93
+5/2/2013 0:00,vbg,Arkansas,270171.84
+5/3/2013 0:00,vbg,Flor,49152.63
+5/4/2013 0:00,zdv,Arkansas,79190.5
+5/5/2013 0:00,Confectionary,Arkansas,48369.73
+5/6/2013 0:00,Cool Drinks,Arkansas,69194.4
+5/7/2013 0:00,Fruit Juices,Arkansas,91597.18
+5/8/2013 0:00,Health Drinks,Arkansas,115144.11
+5/9/2013 0:00,Ice Cream,Arkansas,25420.78
+5/10/2013 0:00,Snacks,Arkansas,64930.75
+5/11/2013 0:00,Tea,Arkansas,152536.13
+5/12/2013 0:00,zdv,Flor,15742.44
+5/13/2013 0:00,vbg,Arkansas,174537.49
+5/14/2013 0:00,vbg,Flor,117877.32
+5/15/2013 0:00,vbg,Washington,106854.16
+5/16/2013 0:00,zdv,ariz,43421.64
+5/17/2013 0:00,zdv,Arkansas,168020.55
+5/18/2013 0:00,zdv,Flor,132000
+5/19/2013 0:00,Confectionary,Arkansas,53509.57
+5/20/2013 0:00,Cool Drinks,Arkansas,92341.55
+5/21/2013 0:00,Cool Drinks,Flor,42205.83
+5/22/2013 0:00,Fruit Juices,Arkansas,317965.97
+5/23/2013 0:00,Health Drinks,Arkansas,49522.79
+5/24/2013 0:00,Health Drinks,Flor,35061.04
+5/25/2013 0:00,Ice Cream,Arkansas,59896.62
+5/26/2013 0:00,Ice Cream,Flor,46354.87
+5/27/2013 0:00,Snacks,Arkansas,4410.67
+5/28/2013 0:00,Tea,Arkansas,268942.88
+5/29/2013 0:00,vbg,Arkansas,101437.63
+5/30/2013 0:00,vbg,Flor,146146.66
+5/31/2013 0:00,vbg,Washington,134340.36
+6/1/2013 0:00,zdv,ariz,39131.02
+6/2/2013 0:00,zdv,Flor,68325.84
+6/3/2013 0:00,Confectionary,Arkansas,43338
+6/4/2013 0:00,Confectionary,Flor,21808.86
+6/5/2013 0:00,Confectionary,Washington,17795.15
+6/6/2013 0:00,Cool Drinks,ariz,47225.64
+6/7/2013 0:00,Cool Drinks,Flor,37735.32
+6/8/2013 0:00,Fruit Juices,Flor,91659.8
+6/9/2013 0:00,Fruit Juices,Washington,84994.49
+6/10/2013 0:00,Health Drinks,Flor,31018.19
+6/11/2013 0:00,Health Drinks,Washington,41063.76
+6/12/2013 0:00,Ice Cream,ariz,63707.9
+6/13/2013 0:00,Ice Cream,Flor,234785.66
+6/14/2013 0:00,Snacks,Arkansas,29025.73
+6/15/2013 0:00,Snacks,Flor,25816.13
+6/16/2013 0:00,Snacks,Washington,22907.9
+6/17/2013 0:00,Tea,ariz,20540.16
+6/18/2013 0:00,Tea,Flor,120669.32
+6/19/2013 0:00,vbg,ariz,45116.76
+6/20/2013 0:00,vbg,Washington,49354.76
+6/21/2013 0:00,zdv,Arkansas,63702.07
+6/22/2013 0:00,Confectionary,Ohio,15637.93
+6/23/2013 0:00,Cool Drinks,Arkansas,39686.86
+6/24/2013 0:00,Cool Drinks,Washington,27744.63
+6/25/2013 0:00,Ice Cream,Washington,34971.01
+6/26/2013 0:00,vbg,Arkansas,45374.7
+6/27/2013 0:00,vbg,Flor,14739.32
+6/28/2013 0:00,zdv,ariz,9016.56
+6/29/2013 0:00,zdv,Arkansas,14026.34
+6/30/2013 0:00,zdv,Flor,57284.49
+7/1/2013 0:00,Confectionary,Flor,43156.26
+7/2/2013 0:00,Confectionary,Washington,123924.84
+7/3/2013 0:00,Cool Drinks,Washington,26461.07
+7/4/2013 0:00,Fruit Juices,ariz,15516.12
+7/5/2013 0:00,Fruit Juices,Arkansas,6160.3
+7/6/2013 0:00,Fruit Juices,Flor,11491.48
+7/7/2013 0:00,Fruit Juices,Ohio,127411.6
+7/8/2013 0:00,Fruit Juices,Washington,77188.04
+7/9/2013 0:00,Health Drinks,ariz,131889.6
+7/10/2013 0:00,Health Drinks,Arkansas,4798.08
+7/11/2013 0:00,Health Drinks,Flor,43434.05
+7/12/2013 0:00,Ice Cream,ariz,56658
+7/13/2013 0:00,Ice Cream,Arkansas,166828.53
+7/14/2013 0:00,Ice Cream,Washington,60503.16
+7/15/2013 0:00,Snacks,Washington,38781.9
+7/16/2013 0:00,Tea,ariz,101766.69
+7/17/2013 0:00,Tea,Arkansas,66121.45
+7/18/2013 0:00,Tea,Flor,86765.98
+7/19/2013 0:00,Tea,Washington,6620.46
+7/20/2013 0:00,vbg,ariz,4955.86
+7/21/2013 0:00,vbg,Arkansas,4886.07
+7/22/2013 0:00,zdv,Flor,37009.3
+7/23/2013 0:00,zdv,Ohio,4126.37
+7/24/2013 0:00,Confectionary,Arkansas,5332.03
+7/25/2013 0:00,Confectionary,Flor,104449.68
+7/26/2013 0:00,Confectionary,Washington,10838.47
+7/27/2013 0:00,Cool Drinks,ariz,46573.97
+7/28/2013 0:00,Cool Drinks,Arkansas,7511.04
+7/29/2013 0:00,Cool Drinks,Flor,34679.72
+7/30/2013 0:00,Cool Drinks,Washington,9169.79
+7/31/2013 0:00,Fruit Juices,ariz,22202.72
+8/1/2013 0:00,Fruit Juices,Arkansas,282089.27
+8/2/2013 0:00,Fruit Juices,Flor,37724.02
+8/3/2013 0:00,Fruit Juices,Washington,12590.4
+8/4/2013 0:00,Health Drinks,ariz,9807.44
+8/5/2013 0:00,Health Drinks,Arkansas,104811.83
+8/6/2013 0:00,Health Drinks,Flor,31073.85
+8/7/2013 0:00,Ice Cream,Arkansas,7710.66
+8/8/2013 0:00,Ice Cream,Flor,134772.82
+8/9/2013 0:00,Tea,ariz,44915.36
+8/10/2013 0:00,Tea,Washington,66155.05
+8/11/2013 0:00,vbg,ariz,6515.86
+8/12/2013 0:00,vbg,Arkansas,67206.28
+8/13/2013 0:00,vbg,Flor,25106.28
+8/14/2013 0:00,vbg,Ohio,53506.91
+8/15/2013 0:00,vbg,Washington,20046.01
+8/16/2013 0:00,zdv,ariz,55698.58
+8/17/2013 0:00,zdv,Ohio,47525.62
+8/18/2013 0:00,zdv,Washington,8312.2
+8/19/2013 0:00,Confectionary,ariz,15497.73
+8/20/2013 0:00,Cool Drinks,Ohio,20510.61
+8/21/2013 0:00,Cool Drinks,Washington,44244.86
+8/22/2013 0:00,Fruit Juices,ariz,2583.21
+8/23/2013 0:00,Fruit Juices,Arkansas,7202.37
+8/24/2013 0:00,Fruit Juices,Flor,95086.29
+8/25/2013 0:00,Fruit Juices,Ohio,3665.02
+8/26/2013 0:00,Fruit Juices,Washington,3714.35
+8/27/2013 0:00,Health Drinks,ariz,25016.69
+8/28/2013 0:00,Health Drinks,Arkansas,108862.77
+8/29/2013 0:00,Health Drinks,Flor,145606.78
+8/30/2013 0:00,Health Drinks,Ohio,12637.97
+8/31/2013 0:00,Health Drinks,Washington,103941.34
+9/1/2013 0:00,Ice Cream,Arkansas,44378.19
+9/2/2013 0:00,Ice Cream,Flor,39893.54
+9/3/2013 0:00,Snacks,Arkansas,175881.53
+9/4/2013 0:00,Tea,ariz,32709.65
+9/5/2013 0:00,Tea,Flor,33185.43
+9/6/2013 0:00,vbg,ariz,22822.58
+9/7/2013 0:00,vbg,Ohio,29136.8
+9/8/2013 0:00,vbg,Washington,133022.41
+9/9/2013 0:00,zdv,ariz,4454.39
+9/10/2013 0:00,zdv,Arkansas,95297.8
+9/11/2013 0:00,zdv,Ohio,71539.47
+9/12/2013 0:00,Confectionary,Ohio,50162.65
+9/13/2013 0:00,Fruit Juices,Arkansas,150424.6
+9/14/2013 0:00,Fruit Juices,Ohio,79777.56
+9/15/2013 0:00,Fruit Juices,Washington,73731.12
+9/16/2013 0:00,Health Drinks,ariz,147187.46
+9/17/2013 0:00,Health Drinks,Arkansas,76107.49
+9/18/2013 0:00,Health Drinks,Flor,177128.22
+9/19/2013 0:00,Health Drinks,Washington,77570.52
+9/20/2013 0:00,Ice Cream,Arkansas,55327.53
+9/21/2013 0:00,Snacks,ariz,62484.75
+9/22/2013 0:00,Tea,ariz,43874.84
+9/23/2013 0:00,Tea,Flor,42086.6
+9/24/2013 0:00,Tea,Washington,204958.64
+9/25/2013 0:00,vbg,ariz,48279.79
+9/26/2013 0:00,vbg,Ohio,11188.89
+9/27/2013 0:00,vbg,Washington,100801.88
+9/28/2013 0:00,zdv,ariz,23808.48
+9/29/2013 0:00,zdv,Flor,120038.03
+9/30/2013 0:00,zdv,Washington,142752.87
+10/1/2013 0:00,Confectionary,Flor,95293.28
+10/2/2013 0:00,Fruit Juices,ariz,37618.43
+10/3/2013 0:00,Fruit Juices,Ohio,27089.49
+10/4/2013 0:00,Health Drinks,Arkansas,31345.09
+10/5/2013 0:00,Health Drinks,Flor,19977.84
+10/6/2013 0:00,Health Drinks,Washington,5454.79
+10/7/2013 0:00,Ice Cream,ariz,90925.44
+10/8/2013 0:00,Ice Cream,Flor,28781.01
+10/9/2013 0:00,Ice Cream,Ohio,35587.44
+10/10/2013 0:00,Ice Cream,Washington,6639.64
+10/11/2013 0:00,Snacks,ariz,27361.56
+10/12/2013 0:00,Snacks,Washington,6232.41
+10/13/2013 0:00,Tea,ariz,148068.19
+10/14/2013 0:00,Tea,Washington,70142.4
+10/15/2013 0:00,vbg,Arkansas,119137.29
+10/16/2013 0:00,vbg,Ohio,12268.69
+10/17/2013 0:00,zdv,ariz,10668.79
+10/18/2013 0:00,zdv,Arkansas,28972.33
+10/19/2013 0:00,zdv,Flor,231845.24
+10/20/2013 0:00,Confectionary,ariz,51032.52
+10/21/2013 0:00,Confectionary,Flor,23506.69
+10/22/2013 0:00,Cool Drinks,ariz,126592.38
+10/23/2013 0:00,Cool Drinks,Washington,12971.69
+10/24/2013 0:00,Fruit Juices,ariz,46580.18
+10/25/2013 0:00,Fruit Juices,Arkansas,315755.57
+10/26/2013 0:00,Health Drinks,ariz,1495.69
+10/27/2013 0:00,Health Drinks,Arkansas,10388.75
+10/28/2013 0:00,Health Drinks,Flor,148393.04
+10/29/2013 0:00,Health Drinks,Ohio,44709.28
+10/30/2013 0:00,Health Drinks,Washington,24142.52
+10/31/2013 0:00,Ice Cream,Washington,57469.33
+11/1/2013 0:00,Tea,ariz,109488.75
+11/2/2013 0:00,Tea,Washington,47543.49
+11/3/2013 0:00,vbg,ariz,52270.26
+11/4/2013 0:00,vbg,Ohio,37706.01
+11/5/2013 0:00,vbg,Washington,9826.14
+11/6/2013 0:00,zdv,ariz,29266.03
+11/7/2013 0:00,zdv,Arkansas,55435.12
+11/8/2013 0:00,Confectionary,ariz,23181.3
+11/9/2013 0:00,Confectionary,Arkansas,4825.32
+11/10/2013 0:00,Confectionary,Ohio,5374.47
+11/11/2013 0:00,Confectionary,Washington,46171.13
+11/12/2013 0:00,Cool Drinks,ariz,3216.22
+11/13/2013 0:00,Cool Drinks,Arkansas,6202.66
+11/14/2013 0:00,Fruit Juices,ariz,106422.73
+11/15/2013 0:00,Fruit Juices,Arkansas,8686.69
+11/16/2013 0:00,Health Drinks,Arkansas,72842.62
+11/17/2013 0:00,Health Drinks,Flor,17852.84
+11/18/2013 0:00,Health Drinks,Ohio,10135.74
+11/19/2013 0:00,Health Drinks,Washington,224539.39
+11/20/2013 0:00,Ice Cream,ariz,34549.13
+11/21/2013 0:00,Ice Cream,Flor,30391.92
+11/22/2013 0:00,Ice Cream,Ohio,42028.24
+11/23/2013 0:00,Ice Cream,Washington,13641.85
+11/24/2013 0:00,Snacks,Arkansas,41308.74
+11/25/2013 0:00,Tea,Washington,29996.16
+11/26/2013 0:00,vbg,ariz,29542.15
+11/27/2013 0:00,vbg,Ohio,4041.93
+11/28/2013 0:00,zdv,Arkansas,4701.02
+11/29/2013 0:00,zdv,Flor,88583.7
+11/30/2013 0:00,zdv,Washington,1097.77
+12/1/2013 0:00,Confectionary,Arkansas,40943.55
+12/2/2013 0:00,Confectionary,Flor,52569.82
+12/3/2013 0:00,Cool Drinks,ariz,45700.98
+12/4/2013 0:00,Fruit Juices,Arkansas,83684.11
+12/5/2013 0:00,Health Drinks,Washington,17453.48
+12/6/2013 0:00,Ice Cream,ariz,5094.21
+12/7/2013 0:00,Ice Cream,Arkansas,1679.27
+12/8/2013 0:00,Snacks,Flor,34460.82
+12/9/2013 0:00,Tea,Washington,42635.66
+12/10/2013 0:00,vbg,Washington,17711.89
+12/11/2013 0:00,zdv,Arkansas,2899.51
+12/12/2013 0:00,zdv,Washington,23202.58
+12/13/2013 0:00,Confectionary,Arkansas,2447.19
+12/14/2013 0:00,Confectionary,Flor,4574.02
+12/15/2013 0:00,Confectionary,Washington,12314.31
+12/16/2013 0:00,Cool Drinks,ariz,8411.83
+12/17/2013 0:00,Cool Drinks,Arkansas,35597.61
+12/18/2013 0:00,Fruit Juices,Washington,20802.64
+12/19/2013 0:00,Ice Cream,ariz,7912.34
+12/20/2013 0:00,Ice Cream,Arkansas,5688.72
+12/21/2013 0:00,Ice Cream,Ohio,2867.87
+12/22/2013 0:00,Ice Cream,Washington,3315.31
+12/23/2013 0:00,Snacks,Flor,10428.91
+12/24/2013 0:00,Tea,ariz,41795.81
+12/25/2013 0:00,Tea,Arkansas,2467.76
+12/26/2013 0:00,Tea,Flor,51577.34
+12/27/2013 0:00,vbg,Arkansas,1969.06
+12/28/2013 0:00,vbg,Flor,2389.78
+12/29/2013 0:00,vbg,Washington,98186.94
+12/30/2013 0:00,zdv,ariz,3776.29
+12/31/2013 0:00,zdv,Arkansas,8385.07
+1/1/2014 0:00,zdv,Flor,20846.45
+1/2/2014 0:00,Confectionary,Flor,7276.45
+1/3/2014 0:00,Cool Drinks,Flor,16940.68
+1/4/2014 0:00,Cool Drinks,Washington,205835.72
+1/5/2014 0:00,Fruit Juices,ariz,14096.72
+1/6/2014 0:00,Fruit Juices,Arkansas,14687.96
+1/7/2014 0:00,Fruit Juices,Flor,4264.7
+1/8/2014 0:00,Health Drinks,Washington,14151.37
+1/9/2014 0:00,Ice Cream,ariz,18953.83
+1/10/2014 0:00,Ice Cream,Arkansas,68135.08
+1/11/2014 0:00,Snacks,Arkansas,10849.26
+1/12/2014 0:00,Snacks,Washington,19788.79
+1/13/2014 0:00,Tea,ariz,3870
+1/14/2014 0:00,Tea,Arkansas,1251.16
+1/15/2014 0:00,vbg,ariz,26489
+1/16/2014 0:00,vbg,Ohio,3035.21
+1/17/2014 0:00,zdv,ariz,5037.39
+1/18/2014 0:00,zdv,Ohio,42588.95
+1/19/2014 0:00,zdv,Washington,3661.7
+1/20/2014 0:00,Confectionary,ariz,98700.77
+1/21/2014 0:00,Confectionary,Arkansas,12524.43
+1/22/2014 0:00,Confectionary,Ohio,5750.39
+1/23/2014 0:00,Cool Drinks,ariz,7998.33
+1/24/2014 0:00,Fruit Juices,ariz,9003.64
+1/25/2014 0:00,Fruit Juices,Ohio,37041.52
+1/26/2014 0:00,Health Drinks,Ohio,7328.34
+1/27/2014 0:00,Ice Cream,ariz,38894.9
+1/28/2014 0:00,Ice Cream,Ohio,49828
+1/29/2014 0:00,Ice Cream,Washington,15474.04
+1/30/2014 0:00,Snacks,Arkansas,3532.03
+1/31/2014 0:00,Snacks,Ohio,11726.34
+2/1/2014 0:00,Tea,Ohio,38827.82
+2/2/2014 0:00,vbg,Arkansas,16324.67
+2/3/2014 0:00,vbg,Flor,181401.13
+2/4/2014 0:00,vbg,Ohio,3867.84
+2/5/2014 0:00,vbg,Washington,12019.05
+2/6/2014 0:00,zdv,Arkansas,58370.64
+2/7/2014 0:00,zdv,Washington,10712.22
+2/8/2014 0:00,Confectionary,Washington,6797.2
+2/9/2014 0:00,Cool Drinks,Flor,8789.26
+2/10/2014 0:00,Cool Drinks,Ohio,3153.42
+2/11/2014 0:00,Fruit Juices,ariz,10092.38
+2/12/2014 0:00,Fruit Juices,Washington,30771.27
+2/13/2014 0:00,Health Drinks,Ohio,10345.1
+2/14/2014 0:00,Health Drinks,Washington,8658.99
+2/15/2014 0:00,Ice Cream,Arkansas,1233.54
+2/16/2014 0:00,Ice Cream,Washington,4982.62
+2/17/2014 0:00,Snacks,Washington,8547.11
+2/18/2014 0:00,Tea,ariz,9602.21
+2/19/2014 0:00,Tea,Ohio,20388.14
+2/20/2014 0:00,Tea,Washington,23240.56
+2/21/2014 0:00,vbg,ariz,16449.5
+2/22/2014 0:00,vbg,Ohio,12324.69
+2/23/2014 0:00,vbg,Washington,29505.54
+2/24/2014 0:00,zdv,ariz,766.98
+2/25/2014 0:00,zdv,Arkansas,3388
+2/26/2014 0:00,zdv,Ohio,84099.9
+2/27/2014 0:00,Confectionary,Ohio,92252.16
+2/28/2014 0:00,Fruit Juices,Arkansas,38964.69
+3/1/2014 0:00,Fruit Juices,Ohio,41722.56
+3/2/2014 0:00,Fruit Juices,Washington,7083.39
+3/3/2014 0:00,Health Drinks,ariz,8270.69
+3/4/2014 0:00,Health Drinks,Arkansas,67732.35
+3/5/2014 0:00,Health Drinks,Flor,49090.67
+3/6/2014 0:00,Health Drinks,Washington,15548.75
+3/7/2014 0:00,Ice Cream,Arkansas,10373.2
+3/8/2014 0:00,Snacks,ariz,1562.94
+3/9/2014 0:00,Tea,ariz,10437.09
+3/10/2014 0:00,Tea,Flor,11127.99
+3/11/2014 0:00,Tea,Washington,23842.12
+3/12/2014 0:00,vbg,Arkansas,21250.86
+3/13/2014 0:00,vbg,Flor,5348.43
+3/14/2014 0:00,vbg,Ohio,7395.84
+3/15/2014 0:00,vbg,Washington,3891.31
+3/16/2014 0:00,zdv,Arkansas,38820.75
+3/17/2014 0:00,zdv,Ohio,25037.73
+3/18/2014 0:00,zdv,Washington,5427.23
+3/19/2014 0:00,Confectionary,Arkansas,2261.61
+3/20/2014 0:00,Confectionary,Ohio,64119.28
+3/21/2014 0:00,Cool Drinks,Flor,8572.61
+3/22/2014 0:00,Cool Drinks,Washington,6596.64
+3/23/2014 0:00,Fruit Juices,ariz,33221.74
+3/24/2014 0:00,Fruit Juices,Arkansas,4916.23
+3/25/2014 0:00,Fruit Juices,Flor,16474.75
+3/26/2014 0:00,Fruit Juices,Washington,14825.92
+3/27/2014 0:00,Health Drinks,Ohio,228712.59
+3/28/2014 0:00,Ice Cream,ariz,1811.52
+3/29/2014 0:00,Ice Cream,Arkansas,1658.27
+3/30/2014 0:00,Ice Cream,Washington,56122
+3/31/2014 0:00,Snacks,Arkansas,18531.43
+4/1/2014 0:00,Tea,ariz,1372.34
+4/2/2014 0:00,Tea,Ohio,71172.76
+4/3/2014 0:00,Tea,Washington,1696.03
+4/4/2014 0:00,vbg,ariz,20119.4
+4/5/2014 0:00,vbg,Ohio,2832.35
+4/6/2014 0:00,vbg,Washington,8880.38
+4/7/2014 0:00,zdv,ariz,14880.48
+4/8/2014 0:00,zdv,Flor,16550.69
+4/9/2014 0:00,zdv,Washington,2242.62
+4/10/2014 0:00,Confectionary,Flor,42964.95
+4/11/2014 0:00,Fruit Juices,ariz,166132.45
+4/12/2014 0:00,Fruit Juices,Ohio,934.22
+4/13/2014 0:00,Health Drinks,Arkansas,21354.57
+4/14/2014 0:00,Health Drinks,Flor,111856.4
+4/15/2014 0:00,Health Drinks,Washington,25738.95
+4/16/2014 0:00,Ice Cream,ariz,24431.58
+4/17/2014 0:00,Ice Cream,Flor,20326.4
+4/18/2014 0:00,Ice Cream,Ohio,7714.93
+4/19/2014 0:00,Ice Cream,Washington,4227.35
+4/20/2014 0:00,Snacks,ariz,7563.78
+4/21/2014 0:00,Snacks,Washington,4405.58
+4/22/2014 0:00,Tea,ariz,51487.49
+4/23/2014 0:00,Tea,Washington,22480.6
+4/24/2014 0:00,vbg,Arkansas,18872.57
+4/25/2014 0:00,vbg,Ohio,2844.52
+4/26/2014 0:00,zdv,ariz,28655.42
+4/27/2014 0:00,zdv,Arkansas,21983.11
+4/28/2014 0:00,zdv,Flor,2822.62
+4/29/2014 0:00,Confectionary,ariz,13768.84
+4/30/2014 0:00,Confectionary,Flor,1809.99
+5/1/2014 0:00,Cool Drinks,ariz,33145.18
+5/2/2014 0:00,Cool Drinks,Washington,21578.83
+5/3/2014 0:00,Fruit Juices,ariz,3219.55
+5/4/2014 0:00,Fruit Juices,Arkansas,20321.06
+5/5/2014 0:00,Health Drinks,ariz,36955.01
+5/6/2014 0:00,Health Drinks,Arkansas,22194.23
+5/7/2014 0:00,Health Drinks,Flor,43428.1
+5/8/2014 0:00,Health Drinks,Ohio,2291.31
+5/9/2014 0:00,Health Drinks,Washington,10383.28
+5/10/2014 0:00,Ice Cream,Washington,48118.43
+5/11/2014 0:00,Tea,ariz,15453.72
+5/12/2014 0:00,Tea,Washington,29592.88
+5/13/2014 0:00,vbg,Arkansas,63674.65
+5/14/2014 0:00,vbg,Flor,8676.47
+5/15/2014 0:00,vbg,Washington,26515.35
+5/16/2014 0:00,zdv,Arkansas,4455.65
+5/17/2014 0:00,zdv,Flor,1844.39
+5/18/2014 0:00,zdv,Washington,15810.21
+5/19/2014 0:00,Cool Drinks,Flor,8294.14
+5/20/2014 0:00,Cool Drinks,Washington,22175.36
+5/21/2014 0:00,Fruit Juices,ariz,1543.37
+5/22/2014 0:00,Fruit Juices,Washington,59173.58
+5/23/2014 0:00,Health Drinks,Flor,2464.94
+5/24/2014 0:00,Health Drinks,Ohio,36989.06
+5/25/2014 0:00,Health Drinks,Washington,3979.15
+5/26/2014 0:00,Ice Cream,Arkansas,30514.78
+5/27/2014 0:00,Ice Cream,Flor,23472.26
+5/28/2014 0:00,Ice Cream,Ohio,8330.6
+5/29/2014 0:00,Ice Cream,Washington,18546.77
+5/30/2014 0:00,Snacks,Flor,9293.94
+5/31/2014 0:00,Tea,ariz,52091.75
+6/1/2014 0:00,Tea,Arkansas,19405.71
+6/2/2014 0:00,Tea,Washington,4520.45
+6/3/2014 0:00,vbg,ariz,21097.44
+6/4/2014 0:00,vbg,Flor,31298.67
+6/5/2014 0:00,vbg,Ohio,2424.95
+6/6/2014 0:00,vbg,Washington,243017.53
+6/7/2014 0:00,zdv,ariz,28215.59
+6/8/2014 0:00,zdv,Flor,24465.89
+6/9/2014 0:00,zdv,Ohio,12775.04
+6/10/2014 0:00,zdv,Washington,142461.29
+6/11/2014 0:00,Confectionary,Ohio,3041.55
+6/12/2014 0:00,Confectionary,Washington,1087.16
+6/13/2014 0:00,Cool Drinks,ariz,775.37
+6/14/2014 0:00,Fruit Juices,ariz,3595.37
+6/15/2014 0:00,Fruit Juices,Arkansas,34534.4
+6/16/2014 0:00,Health Drinks,Ohio,5745.15
+6/17/2014 0:00,Ice Cream,Arkansas,19642.96
+6/18/2014 0:00,Ice Cream,Ohio,1873.64
+6/19/2014 0:00,Ice Cream,Washington,13947.54
+6/20/2014 0:00,Snacks,ariz,27179.74
+6/21/2014 0:00,Tea,ariz,5124.96
+6/22/2014 0:00,Tea,Arkansas,2584.89
+6/23/2014 0:00,Tea,Washington,3877.68
+6/24/2014 0:00,vbg,ariz,4971.02
+6/25/2014 0:00,vbg,Ohio,120253
+6/26/2014 0:00,vbg,Washington,12157.02
+6/27/2014 0:00,zdv,ariz,34297.56
+6/28/2014 0:00,zdv,Arkansas,6678.02
+6/29/2014 0:00,Confectionary,ariz,43467.14
+6/30/2014 0:00,Confectionary,Arkansas,4840.56
+7/1/2014 0:00,Confectionary,Ohio,18752.72
+7/2/2014 0:00,Confectionary,Washington,7230.77
+7/3/2014 0:00,Cool Drinks,ariz,2472.63
+7/4/2014 0:00,Cool Drinks,Arkansas,2060.88
+7/5/2014 0:00,Fruit Juices,ariz,2254.46
+7/6/2014 0:00,Fruit Juices,Arkansas,16940.97
+7/7/2014 0:00,Health Drinks,Arkansas,59174.28
+7/8/2014 0:00,Health Drinks,Flor,1218.48
+7/9/2014 0:00,Health Drinks,Ohio,1901.09
+7/10/2014 0:00,Health Drinks,Washington,14638.17
+7/11/2014 0:00,Ice Cream,ariz,45143.26
+7/12/2014 0:00,Ice Cream,Flor,20662.34
+7/13/2014 0:00,Ice Cream,Ohio,3536.53
+7/14/2014 0:00,Ice Cream,Washington,5306.11
+7/15/2014 0:00,Snacks,Arkansas,2789.05
+7/16/2014 0:00,Tea,Washington,4028.68
+7/17/2014 0:00,vbg,Arkansas,5615.73
+7/18/2014 0:00,vbg,Ohio,19289.2
+7/19/2014 0:00,vbg,Washington,188023.59
+7/20/2014 0:00,zdv,Arkansas,26449.74
+7/21/2014 0:00,zdv,Washington,23619.99
+7/22/2014 0:00,Confectionary,Flor,11575.87
+7/23/2014 0:00,Confectionary,Washington,21921.12
+7/24/2014 0:00,Cool Drinks,Arkansas,43226.57
+7/25/2014 0:00,Cool Drinks,Ohio,60800.45
+7/26/2014 0:00,Fruit Juices,ariz,6654.98
+7/27/2014 0:00,Fruit Juices,Washington,12675.36
+7/28/2014 0:00,Health Drinks,Arkansas,2986.56
+7/29/2014 0:00,Health Drinks,Ohio,19196.1
+7/30/2014 0:00,Health Drinks,Washington,23436.35
+7/31/2014 0:00,Ice Cream,Flor,4053.74
+8/1/2014 0:00,Ice Cream,Washington,11217.07
+8/2/2014 0:00,Snacks,Washington,5907.01
+8/3/2014 0:00,Tea,ariz,1414.11
+8/4/2014 0:00,Tea,Arkansas,31206.76
+8/5/2014 0:00,Tea,Ohio,9918.72
+8/6/2014 0:00,Tea,Washington,14628.71
+8/7/2014 0:00,vbg,Arkansas,3695.23
+8/8/2014 0:00,vbg,Ohio,3579.03
+8/9/2014 0:00,vbg,Washington,6403.75
+8/10/2014 0:00,zdv,Arkansas,227598.36
+8/11/2014 0:00,zdv,Flor,6682.64
+8/12/2014 0:00,Confectionary,Arkansas,59368.25
+8/13/2014 0:00,Cool Drinks,ariz,3953.32
+8/14/2014 0:00,Fruit Juices,ariz,22790.65
+8/15/2014 0:00,Fruit Juices,Arkansas,12639.9
+8/16/2014 0:00,Fruit Juices,Flor,20768.09
+8/17/2014 0:00,Health Drinks,Ohio,1533.73
+8/18/2014 0:00,Ice Cream,Arkansas,36464.52
+8/19/2014 0:00,Ice Cream,Washington,55384.88
+8/20/2014 0:00,Snacks,Arkansas,11302.02
+8/21/2014 0:00,Tea,ariz,1363.05
+8/22/2014 0:00,Tea,Ohio,6686.36
+8/23/2014 0:00,Tea,Washington,9774.36
+8/24/2014 0:00,vbg,Arkansas,29838.86
+8/25/2014 0:00,vbg,Washington,107089.55
+8/26/2014 0:00,zdv,Arkansas,30815.98
+8/27/2014 0:00,zdv,Flor,357663.53
+8/28/2014 0:00,zdv,Washington,13172.44
+8/29/2014 0:00,Confectionary,Flor,10233.72
+8/30/2014 0:00,Cool Drinks,Arkansas,21665.61
+8/31/2014 0:00,Fruit Juices,ariz,30020.19
+9/1/2014 0:00,Fruit Juices,Arkansas,4341.88
+9/2/2014 0:00,Health Drinks,ariz,6193.53
+9/3/2014 0:00,Health Drinks,Flor,190505.86
+9/4/2014 0:00,Health Drinks,Ohio,216239.85
+9/5/2014 0:00,Health Drinks,Washington,12294.4
+9/6/2014 0:00,Ice Cream,ariz,54512.56
+9/7/2014 0:00,Ice Cream,Arkansas,10215.39
+9/8/2014 0:00,Ice Cream,Flor,18830.28
+9/9/2014 0:00,Ice Cream,Ohio,4409.02
+9/10/2014 0:00,Ice Cream,Washington,45156.32
+9/11/2014 0:00,Tea,Arkansas,15865.86
+9/12/2014 0:00,vbg,Washington,512890.06
+9/13/2014 0:00,zdv,Arkansas,18412.62
+9/14/2014 0:00,zdv,Flor,24372.8
+9/15/2014 0:00,Confectionary,Arkansas,31171.92
+9/16/2014 0:00,Confectionary,Washington,43643.76
+9/17/2014 0:00,Cool Drinks,ariz,17822.94
+9/18/2014 0:00,Cool Drinks,Arkansas,27903.15
+9/19/2014 0:00,Cool Drinks,Flor,60147.76
+9/20/2014 0:00,Fruit Juices,ariz,204031.52
+9/21/2014 0:00,Fruit Juices,Arkansas,224167.01
+9/22/2014 0:00,Fruit Juices,Flor,138936.5
+9/23/2014 0:00,Health Drinks,ariz,9791.7
+9/24/2014 0:00,Health Drinks,Arkansas,104945.31
+9/25/2014 0:00,Health Drinks,Flor,7365.42
+9/26/2014 0:00,Health Drinks,Ohio,2627.98
+9/27/2014 0:00,Ice Cream,Arkansas,19113.38
+9/28/2014 0:00,Ice Cream,Washington,21443.08
+9/29/2014 0:00,Tea,ariz,273206.67
+9/30/2014 0:00,Tea,Arkansas,7028.23
+10/1/2014 0:00,Tea,Ohio,10496.88
+10/2/2014 0:00,Tea,Washington,41837.72
+10/3/2014 0:00,vbg,Ohio,14415.03
+10/4/2014 0:00,zdv,ariz,115709.79
+10/5/2014 0:00,zdv,Arkansas,128359.8
+10/6/2014 0:00,zdv,Washington,7893.51
+10/7/2014 0:00,Confectionary,ariz,3006.64
+10/8/2014 0:00,Confectionary,Arkansas,5180.7
+10/9/2014 0:00,Confectionary,Flor,6236.34
+10/10/2014 0:00,Confectionary,Ohio,69417.99
+10/11/2014 0:00,Cool Drinks,Arkansas,23583.14
+10/12/2014 0:00,Fruit Juices,ariz,42777.05
+10/13/2014 0:00,Fruit Juices,Arkansas,14974.89
+10/14/2014 0:00,Fruit Juices,Washington,60772.98
+10/15/2014 0:00,Health Drinks,ariz,57327.41
+10/16/2014 0:00,Health Drinks,Arkansas,14585.55
+10/17/2014 0:00,Health Drinks,Flor,158218.2
+10/18/2014 0:00,Health Drinks,Washington,64618.67
+10/19/2014 0:00,Ice Cream,ariz,19330.22
+10/20/2014 0:00,Ice Cream,Arkansas,4952.62
+10/21/2014 0:00,Ice Cream,Ohio,345243.49
+10/22/2014 0:00,Snacks,ariz,14614.64
+10/23/2014 0:00,Snacks,Ohio,5882.18
+10/24/2014 0:00,Tea,ariz,28009.8
+10/25/2014 0:00,Tea,Ohio,87059.61
+10/26/2014 0:00,Tea,Washington,6886.4
+10/27/2014 0:00,vbg,ariz,80969.16
+10/28/2014 0:00,vbg,Washington,36062.08
+10/29/2014 0:00,zdv,Arkansas,64683.36
+10/30/2014 0:00,zdv,Flor,37630
+10/31/2014 0:00,zdv,Ohio,63187.79
+11/1/2014 0:00,zdv,Washington,22977.37
+11/2/2014 0:00,Confectionary,ariz,30882.6
+11/3/2014 0:00,Confectionary,Arkansas,16182.29
+11/4/2014 0:00,Confectionary,Washington,18539.7
+11/5/2014 0:00,Cool Drinks,Flor,34920.42
+11/6/2014 0:00,Cool Drinks,Washington,16122.87
+11/7/2014 0:00,Fruit Juices,ariz,8627.35
+11/8/2014 0:00,Fruit Juices,Arkansas,9307.2
+11/9/2014 0:00,Fruit Juices,Ohio,76792.68
+11/10/2014 0:00,Health Drinks,Arkansas,194990.67
+11/11/2014 0:00,Health Drinks,Flor,53435.4
+11/12/2014 0:00,Health Drinks,Ohio,59070.44
+11/13/2014 0:00,Health Drinks,Washington,43411.2
+11/14/2014 0:00,Ice Cream,ariz,31528.18
+11/15/2014 0:00,Ice Cream,Washington,104916.1
+11/16/2014 0:00,Snacks,ariz,6761.04
+11/17/2014 0:00,Tea,ariz,5277.68
+11/18/2014 0:00,Tea,Arkansas,16421.67
+11/19/2014 0:00,vbg,ariz,3293.82
+11/20/2014 0:00,vbg,Arkansas,90261.08
+11/21/2014 0:00,vbg,Ohio,44504.58
+11/22/2014 0:00,vbg,Washington,82266.08
+11/23/2014 0:00,zdv,Flor,302933.97
+11/24/2014 0:00,zdv,Ohio,4706.3
+11/25/2014 0:00,Confectionary,Arkansas,84985.88
+11/26/2014 0:00,Confectionary,Flor,48400.74
+11/27/2014 0:00,Cool Drinks,Arkansas,2542.35
+11/28/2014 0:00,Cool Drinks,Flor,16760
+11/29/2014 0:00,Cool Drinks,Ohio,7543.55
+11/30/2014 0:00,Fruit Juices,ariz,17007.24
+12/1/2014 0:00,Fruit Juices,Arkansas,17234.7
+12/2/2014 0:00,Fruit Juices,Washington,7617.02
+12/3/2014 0:00,Health Drinks,ariz,5660.37
+12/4/2014 0:00,Ice Cream,ariz,73139.97
+12/5/2014 0:00,Ice Cream,Arkansas,35020.8
+12/6/2014 0:00,Ice Cream,Washington,52154.24
+12/7/2014 0:00,Snacks,Washington,15411.76
+12/8/2014 0:00,Tea,ariz,16875.39
+12/9/2014 0:00,Tea,Flor,10604.16
+12/10/2014 0:00,Tea,Washington,32750.7
+12/11/2014 0:00,Cool Drinks,Flor,4388.34
+12/12/2014 0:00,vbg,ariz,107936.3
+12/13/2014 0:00,vbg,Arkansas,65934
+12/14/2014 0:00,vbg,Ohio,28520.7
+12/15/2014 0:00,zdv,ariz,262956.96
+12/16/2014 0:00,zdv,Ohio,63687.36
+12/17/2014 0:00,zdv,Washington,12141.36
+12/18/2014 0:00,Confectionary,Arkansas,83908.12
+12/19/2014 0:00,Confectionary,Washington,391780.35
+12/20/2014 0:00,Cool Drinks,Arkansas,119241.36
+12/21/2014 0:00,Fruit Juices,ariz,11628.42
+12/22/2014 0:00,Fruit Juices,Arkansas,71808.66
+12/23/2014 0:00,Fruit Juices,Flor,18681.6
+12/24/2014 0:00,Health Drinks,ariz,251533.16
+12/25/2014 0:00,Health Drinks,Arkansas,51943.38
+12/26/2014 0:00,Health Drinks,Flor,12032.51
+12/27/2014 0:00,Health Drinks,Ohio,84535.62
+12/28/2014 0:00,Health Drinks,Washington,44444.28
+12/29/2014 0:00,Ice Cream,ariz,13866.06
+12/30/2014 0:00,Ice Cream,Arkansas,31447.12
+12/31/2014 0:00,Ice Cream,Flor,11571.76
+1/1/2015 0:00,Ice Cream,Washington,42898.31
+1/2/2015 0:00,Snacks,ariz,17817.45
+1/3/2015 0:00,Snacks,Flor,24741.9
+1/4/2015 0:00,Tea,ariz,25837.62
+1/5/2015 0:00,Tea,Arkansas,10247.73
+1/6/2015 0:00,vbg,ariz,6714.64
+1/7/2015 0:00,vbg,Flor,42953.35
+1/8/2015 0:00,vbg,Washington,30827.46
+1/9/2015 0:00,zdv,Arkansas,31618.86
+1/10/2015 0:00,zdv,Flor,64470.94
+1/11/2015 0:00,zdv,Ohio,25687.32
+1/12/2015 0:00,Confectionary,Ohio,25793.76
+1/13/2015 0:00,Cool Drinks,ariz,59897.68
+1/14/2015 0:00,Cool Drinks,Arkansas,96799.49
+1/15/2015 0:00,Cool Drinks,Washington,3926.02
+1/16/2015 0:00,Fruit Juices,ariz,9976.02
+1/17/2015 0:00,Fruit Juices,Arkansas,73496.36
+1/18/2015 0:00,Fruit Juices,Washington,43654.1
+1/19/2015 0:00,Health Drinks,ariz,6578.36
+1/20/2015 0:00,Health Drinks,Arkansas,19381.86
+1/21/2015 0:00,Health Drinks,Flor,42195.33
+1/22/2015 0:00,Health Drinks,Washington,15021.3
+1/23/2015 0:00,Ice Cream,Flor,3445.2
+1/24/2015 0:00,Ice Cream,Ohio,12512.72
+1/25/2015 0:00,Ice Cream,Washington,18236.8
+1/26/2015 0:00,Snacks,ariz,3555.7
+1/27/2015 0:00,Tea,Washington,60326.4
+1/28/2015 0:00,vbg,Arkansas,10374.75
+1/29/2015 0:00,vbg,Flor,3545.08
+1/30/2015 0:00,zdv,ariz,5524.01
+1/31/2015 0:00,zdv,Arkansas,23773.39
+2/1/2015 0:00,zdv,Flor,6063.7
+2/2/2015 0:00,Confectionary,Flor,4762.12
+2/3/2015 0:00,Confectionary,Washington,202853.7
+2/4/2015 0:00,Cool Drinks,Washington,110546.87
+2/5/2015 0:00,Fruit Juices,ariz,2753.17
+2/6/2015 0:00,Fruit Juices,Arkansas,29218.27
+2/7/2015 0:00,Fruit Juices,Flor,9619.59
+2/8/2015 0:00,Fruit Juices,Ohio,7298.02
+2/9/2015 0:00,Fruit Juices,Washington,41995.73
+2/10/2015 0:00,Health Drinks,ariz,10927.36
+2/11/2015 0:00,Health Drinks,Arkansas,11964.96
+2/12/2015 0:00,Health Drinks,Flor,8948.64
+2/13/2015 0:00,Ice Cream,ariz,37389.99
+2/14/2015 0:00,Ice Cream,Arkansas,24574.41
+2/15/2015 0:00,Ice Cream,Washington,18602.65
+2/16/2015 0:00,Snacks,Washington,10114.88
+2/17/2015 0:00,Tea,ariz,92206.38
+2/18/2015 0:00,Tea,Arkansas,8735.04
+2/19/2015 0:00,Tea,Flor,95400.26
+2/20/2015 0:00,Tea,Washington,5775.85
+2/21/2015 0:00,vbg,ariz,2340.81
+2/22/2015 0:00,vbg,Arkansas,34325.41
+2/23/2015 0:00,zdv,Flor,38669.15
+2/24/2015 0:00,zdv,Ohio,16487.59
+2/25/2015 0:00,Confectionary,Arkansas,1893.47
+2/26/2015 0:00,Confectionary,Flor,62835.91
+2/27/2015 0:00,Confectionary,Washington,11491.57
+2/28/2015 0:00,Cool Drinks,ariz,5278.07
+3/1/2015 0:00,Cool Drinks,Arkansas,13053.18
+3/2/2015 0:00,Cool Drinks,Flor,2832.84
+3/3/2015 0:00,Cool Drinks,Washington,13383.79
+3/4/2015 0:00,Fruit Juices,ariz,5675.98
+3/5/2015 0:00,Fruit Juices,Arkansas,36005.15
+3/6/2015 0:00,Fruit Juices,Flor,14361.27
+3/7/2015 0:00,Fruit Juices,Washington,14365.61
+3/8/2015 0:00,Health Drinks,ariz,9898.69
+3/9/2015 0:00,Health Drinks,Arkansas,717.95
+3/10/2015 0:00,Health Drinks,Flor,3130.62
+3/11/2015 0:00,Ice Cream,Arkansas,7976.5
+3/12/2015 0:00,Ice Cream,Flor,18293.62
+3/13/2015 0:00,Tea,ariz,3205.82
+3/14/2015 0:00,Tea,Washington,35890.74
+3/15/2015 0:00,vbg,ariz,5498.86
+3/16/2015 0:00,vbg,Arkansas,6012.56
+3/17/2015 0:00,vbg,Flor,148755.78
+3/18/2015 0:00,vbg,Ohio,2765.16
+3/19/2015 0:00,vbg,Washington,22699.5
+3/20/2015 0:00,zdv,ariz,3196.33
+3/21/2015 0:00,zdv,Ohio,51854.09
+3/22/2015 0:00,zdv,Washington,2084.87
+3/23/2015 0:00,Confectionary,ariz,2730.71
+3/24/2015 0:00,Cool Drinks,Ohio,2153.64
+3/25/2015 0:00,Cool Drinks,Washington,9202.41
+3/26/2015 0:00,Fruit Juices,ariz,54718.21
+3/27/2015 0:00,Fruit Juices,Arkansas,13078.99
+3/28/2015 0:00,Fruit Juices,Flor,1472.03
+3/29/2015 0:00,Fruit Juices,Ohio,4021.61
+3/30/2015 0:00,Fruit Juices,Washington,2588.56
+3/31/2015 0:00,Health Drinks,ariz,3959.72
+4/1/2015 0:00,Health Drinks,Arkansas,52766.36
+4/2/2015 0:00,Health Drinks,Flor,39104.9
+4/3/2015 0:00,Health Drinks,Ohio,9714.16
+4/4/2015 0:00,Health Drinks,Washington,7534.55
+4/5/2015 0:00,Ice Cream,Arkansas,1098.6
+4/6/2015 0:00,Ice Cream,Flor,2864.48
+4/7/2015 0:00,Snacks,Arkansas,3599.32
+4/8/2015 0:00,Tea,ariz,4465.06
+4/9/2015 0:00,Tea,Flor,9742.48
