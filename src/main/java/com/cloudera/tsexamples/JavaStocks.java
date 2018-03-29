@@ -59,7 +59,7 @@ public class JavaStocks {
         JavaSparkContext context = new JavaSparkContext(conf);
         SQLContext sqlContext = new SQLContext(context);
 
-        Dataset tickerObs = loadObservations(context, sqlContext, "data/ticker.tsv");
+        Dataset<Row> tickerObs = loadObservations(context, sqlContext, "data/ticker.tsv");
 
         System.out.println("tickerObs - loadObservations");
         tickerObs.show();
